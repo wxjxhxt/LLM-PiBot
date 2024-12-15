@@ -1,4 +1,4 @@
-# WebcamGPT Autonomous Robot
+# LLM- Pi Bot
 
 ## Prerequisites
 
