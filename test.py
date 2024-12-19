@@ -1,6 +1,5 @@
 import RPi.GPIO as GPIO
 import cv2
-import numpy as np
 import time
 import openai
 import base64
